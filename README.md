@@ -1,5 +1,5 @@
 # 🌟 **Anoop Kumar Yadav** | *Crafting Digital Solutions with Precision*
-![Banner](https://link-to-your-custom-animated-banner)
+![Banner](https://drive.google.com/file/d/11bsHp4ZJ_FcZD7iGjJojDIfDty3P5lXz/view?usp=drivesdk)
 
 ## 💫 About Me:
 <!-- Advanced sections with animated bars or scroll effects -->
