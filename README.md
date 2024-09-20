@@ -1,5 +1,5 @@
 # 🌟 **Anoop Kumar Yadav** | *Crafting Digital Solutions with Precision*
-![Banner](https://dribbble.com/shots/24775235-3D-Web-Animation-for-SaaS-Website-Banner)
+![Banner](https://github.com/Anoop-Kumar-Yadav/Anoop-Kumar-Yadav/blob/main/original-8410ddd85cabfc3943ecfbc1c9909ffd.mp4)
 
 ## 💫 About Me:
 <!-- Advanced sections with animated bars or scroll effects -->
