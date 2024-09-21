@@ -1,4 +1,4 @@
-<img src="./Picsart_24-09-21_00-48-27-234.png" alt="Banner Image" style="width: 100%; height: auto;"/>
+<img src="./7ivmqesh.png" alt="Banner Image" style="width: 100%; height: auto;"/>
 <!--h1 align="center" style="color: #4A90E2;">🌟 Anoop Kumar Yadav 🌟</h1>
 
 <p align="center" style="color: #FFFFFF;background-color: rgba(74, 144, 226, 0.1);padding: 15px;border-radius: 10px;">
