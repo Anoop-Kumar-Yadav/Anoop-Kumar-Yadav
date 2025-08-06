@@ -160,10 +160,14 @@ motto: "Code with passion, debug with patience"
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anoop-Kumar-Yadav&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anoop-Kumar-Yadav&theme=radical&hide_border=true" alt="Streak Stats" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anoop-Kumar-Yadav&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anoop-Kumar-Yadav&theme=radical&hide_border=true" alt="Streak Stats" />
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoop-Kumar-Yadav&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+<br/>
+<br/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoop-Kumar-Yadav&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
 
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anoop-Kumar-Yadav&custom_title=Anoop's%20GitHub%20Activity%20Graph&bg_color=141321&color=FF6B6B&line=FF6B6B&point=FFFFFF&area_color=FF6B6B&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
