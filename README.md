@@ -84,6 +84,13 @@ const dev = {
 <!-- Animated Tech Wave -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
+[![HTML](https://img.shields.io/badge/HTML-100%25-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=374151)](https://skill-tracker-app-76456.web.app)
+[![CSS](https://img.shields.io/badge/CSS-100%25-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=374151)](https://skill-tracker-app-76456.web.app)
+[![React](https://img.shields.io/badge/React-20%25-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=374151)](https://skill-tracker-app-76456.web.app)
+[![Node.js](https://img.shields.io/badge/Node.js-0%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=374151)](https://skill-tracker-app-76456.web.app)
+[![Python](https://img.shields.io/badge/Python-0%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=374151)](https://skill-tracker-app-76456.web.app)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0%25-4F46E5?style=for-the-badge&logo=codeigniter&logoColor=white&labelColor=374151)](https://skill-tracker-app-76456.web.app)
+
 ### **Languages & Core**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
