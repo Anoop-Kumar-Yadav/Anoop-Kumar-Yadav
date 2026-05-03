@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Header with Wave Effect -->
-<img width="100%" src="https://media.licdn.com/dms/image/v2/D5616AQFRCeKskIrZig/profile-displaybackgroundimage-shrink_350_1400/B56Z3rszRRIYAY-/0/1777775886613?e=1779321600&v=beta&t=V6N35t0VMmqNH51ZJ5LoZsRuZb6sLlQvU571RoFi830"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&fontColor=fff&fontSize=42&text=Anoop%20Kumar%20Yadav&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descAlignY=72&animation=twinkling&section=header"/>
 
 <!-- Snake Animation -->
 <picture>
