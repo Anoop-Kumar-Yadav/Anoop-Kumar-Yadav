@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Header with Wave Effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,15,18,20,24&text=ANOOP%20KUMAR%20YADAV&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Architect%20•%20System%20Designer%20•%20Code%20Craftsman&descAlignY=58&descAlign=50&descSize=16"/>
+<img width="100%" src="https://media.licdn.com/dms/image/v2/D5616AQFRCeKskIrZig/profile-displaybackgroundimage-shrink_350_1400/B56Z3rszRRIYAY-/0/1777775886613?e=1779321600&v=beta&t=V6N35t0VMmqNH51ZJ5LoZsRuZb6sLlQvU571RoFi830"/>
 
 <!-- Snake Animation -->
 <picture>
